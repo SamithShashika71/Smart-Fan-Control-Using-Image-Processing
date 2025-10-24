@@ -57,7 +57,7 @@ Using **OpenCV**, **MediaPipe**, and **Arduino Uno**, the system recognizes real
 
    python smart_fan_control.py
 
-5.Show your hand gestures to the camera to control the fan!
+  5.Show your hand gestures to the camera to control the fan!
 
 ---
 🧩 Hardware Requirements
