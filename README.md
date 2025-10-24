@@ -54,11 +54,10 @@ Connect Arduino Uno via USB.
 Upload the StandardFirmata sketch to Arduino using the Arduino IDE.
 
 Run the Python script:
-
-bash
-Copy code
 python smart_fan_control.py
+
 Show your hand gestures to the camera to control the fan!
+
 ---
 🧩 Hardware Requirements
 Arduino Uno board
@@ -72,6 +71,7 @@ External power supply
 USB cable
 
 Breadboard and jumper wires
+
 ---
 🌐 Future Enhancements
 Add temperature sensors for auto speed adjustment.
@@ -81,6 +81,7 @@ Enable Wi-Fi or Bluetooth control.
 Implement voice commands for hybrid control.
 
 Design a mobile dashboard for monitoring and settings.
+
 ---
 ❤️ Acknowledgement
 This project was developed as part of my university coursework to explore AI-driven hardware control.
