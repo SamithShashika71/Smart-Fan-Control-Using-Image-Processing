@@ -47,17 +47,17 @@ Using **OpenCV**, **MediaPipe**, and **Arduino Uno**, the system recognizes real
 
 ## ⚙️ Setup Instructions
 1. Install dependencies:
-   ```bash
+   
    pip install opencv-python mediapipe pyfirmata
-Connect Arduino Uno via USB.
+2. Connect Arduino Uno via USB.
 
-Upload the StandardFirmata sketch to Arduino using the Arduino IDE.
+3. Upload the StandardFirmata sketch to Arduino using the Arduino IDE.
 
-Run the Python script:
+4. Run the Python script:
 
-python smart_fan_control.py
+   python smart_fan_control.py
 
-Show your hand gestures to the camera to control the fan!
+5.Show your hand gestures to the camera to control the fan!
 
 ---
 🧩 Hardware Requirements
