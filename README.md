@@ -54,6 +54,7 @@ Connect Arduino Uno via USB.
 Upload the StandardFirmata sketch to Arduino using the Arduino IDE.
 
 Run the Python script:
+
 python smart_fan_control.py
 
 Show your hand gestures to the camera to control the fan!
